@@ -1,0 +1,10 @@
+﻿  Cube.cpp
+c:\users\amrein dorottya\desktop\asztal\4felev\szamgraf\halo\02_loadtexture\cube.cpp(102): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MyApp.cpp
+c:\users\amrein dorottya\desktop\asztal\4felev\szamgraf\halo\02_loadtexture\myapp.cpp(14): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\amrein dorottya\desktop\asztal\4felev\szamgraf\halo\02_loadtexture\myapp.cpp(17): warning C4305: '=': truncation from 'double' to 'float'
+  main.cpp
+c:\users\amrein dorottya\desktop\asztal\4felev\szamgraf\halo\02_loadtexture\main.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\amrein dorottya\desktop\asztal\4felev\szamgraf\halo\02_loadtexture\main.cpp(136): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  02_LoadTexture.vcxproj -> C:\Users\Amrein Dorottya\Desktop\asztal\4felev\szamgraf\Halo\Debug\02_LoadTexture.exe
